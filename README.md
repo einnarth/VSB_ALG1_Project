@@ -14,4 +14,4 @@ This project was developed as an algorithmic assignment to solve the "Forest Qua
 * C++ *(uprav na Java alebo C#, podľa toho, v čom si to programoval)*
 * Algorithms & Data Structures
 
-* Developed as part of university algorithmic coursework.
+> Developed as part of university algorithmic coursework.
